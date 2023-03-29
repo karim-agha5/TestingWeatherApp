@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name" translatable="false">WeatherApp</string>
+    <string name="collapsing_image_content_description" translatable="false">Background Image</string>
+    <string name="tv_weather_status" translatable="false">Snowy</string>
+    <string name="tv_weather_location" translatable="false">Vkhoyansk, Rusia</string>
+    <string name="tv_weather_degree" translatable="false">-12</string>
+    <string name="vp_content_description" translatable="false">Weather Info</string>
+    <string name="tl_content_description" translatable="false">Weather Info Tabs</string>
+    <string name="favorites" translatable="false">Favorites</string>
+    <string name="settings" translatable="false">Settings</string>
+    <string name="humidity">Humidity</string>
+    <string name="pressure">Pressure</string>
+    <string name="wind_speed">Wind Speed</string>
+    <string name="clouds">Clouds</string>
+    <string name="add_a_location">Add a Location</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="open" translatable="false">open</string>
+    <string name="close" translatable="false">close</string>
+</resources>
