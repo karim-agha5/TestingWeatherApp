@@ -16,6 +16,10 @@ import kotlinx.coroutines.launch
 
 class WeatherInfoViewModel() : ViewModel(){
 
+
+
+    // TA3DEEEEL
+
     // Remove the WeatherRepository dependency and inject it later on
     private var weatherRepository = WeatherRepository(Dispatchers.IO,RetrofitWeatherNetwork)
     private var _weatherOneCallResponse: MutableLiveData<WeatherOneCallResponse> = MutableLiveData()
